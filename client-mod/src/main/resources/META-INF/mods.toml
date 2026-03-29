@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+
+[[mods]]
+modId="neonclient"
+version="1.0.0"
+displayName="Neon Client"
+description='''
+A minimal custom client HUD mod with click GUI and module system.
+'''
